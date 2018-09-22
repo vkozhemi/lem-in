@@ -1,0 +1,22 @@
+20
+##start
+st -23 -3
+r2 16 7
+#comment
+r3 16 2
+r4 16 5
+r5 9 3
+r6 1 5
+##end
+end 9 5
+st-r2
+st-r3
+st-r4
+r2-r3
+r4-r3
+r5-r2
+r3-r6
+r4-r6
+r6-r5
+end-r6
+end-r5
