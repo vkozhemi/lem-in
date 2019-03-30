@@ -46,7 +46,7 @@ x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w
 	6-4
 	1-8
 
-You can choose one in `lem-in_maps/` after cloning this repo.
+You can choose one in `maps/` after cloning this repo.
 
 ### Usage
 ```
