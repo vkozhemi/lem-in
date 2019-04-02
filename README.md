@@ -74,12 +74,12 @@ Also as a bonus to this project I decided to find all unique ways on the map and
 	1-3
 	3-2
 
-### shortest unique paths
+### Shortest unique paths
 
 	Way [0] ->(1)->(4)
 	Way [1] ->(2)->(4)
 
-### steps of each ant (L1, L2, L3) in the room (1, 2 ...)
+### Steps of each ant (L1, L2, L3) in the room (1, 2 ...)
 
 	L1-1 L2-2 
 	L2-4 L1-4 L3-1 
@@ -143,11 +143,11 @@ Also as a bonus to this project I decided to find all unique ways on the map and
 	5-12
 	7-15
 
-### shortest unique paths with 13 aints
+### Shortest unique paths with 13 aints
 	Way [0] ->(1)->(19)
 	Way [1] ->(4)->(5)->(3)->(19)
 
-### steps of each ant (L1, L2 ... L13) in the room (1, 2 ... 19)
+### Steps of each ant (L1, L2 ... L13) in the room (1, 2 ... 19)
 	L1-1 L2-4 
 	L2-5 L1-19 L3-1 L4-4 
 	L2-3 L4-5 L3-19 L5-1 L6-4 
