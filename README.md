@@ -143,7 +143,7 @@ Also as a bonus to this project I decided to find all unique ways on the map and
 	5-12
 	7-15
 
-### shortest unique paths
+### shortest unique paths with 13 aints
 	Way [0] ->(1)->(19)
 	Way [1] ->(4)->(5)->(3)->(19)
 
