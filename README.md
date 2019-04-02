@@ -85,7 +85,7 @@ Also as a bonus to this project I decided to find all unique ways on the map and
 	L2-4 L1-4 L3-1 
 	L3-4 
 
-![Image alt](https://github.com/vkozhemi/lem-in/raw/master/img/1.gif)
+![Image alt](https://github.com/vkozhemi/lem-in/raw/master/img/1.png)
 
 ## Example 2
 
@@ -158,5 +158,5 @@ Also as a bonus to this project I decided to find all unique ways on the map and
 	L12-3 L13-19 
 	L12-19 
 
-![Image alt](https://github.com/vkozhemi/lem-in/raw/master/img/2.gif)
+![Image alt](https://github.com/vkozhemi/lem-in/raw/master/img/2.png)
 
