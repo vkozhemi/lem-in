@@ -21,7 +21,7 @@ x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w
 
 #### Map example
 
-	12 				- numbers of aints
+	12 			- numbers of aints
 	##start			- start room
 	1 23 3			- number of room and coordinates
 	2 16 7
@@ -33,7 +33,7 @@ x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w
 	7 4 8
 	8 9 5
 	##end			- this is the end 
-	1-2				- links between rooms
+	1-2			- links between rooms
 	2-4
 	1-3
 	3-4
